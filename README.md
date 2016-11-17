@@ -1,7 +1,7 @@
 <h3> Retro-Calculator iPhone App </h3>
 <h4>A cool retro calculator for your iphone !</h4> 
 <div>
-This simple iphone app is a cool retro-calculator that does simple operations such as: addition, subtraction,
+This simple iphone app is a cool retro-calculator that performs basic operations such as: addition, subtraction,
 multiplication & division.The buttons are also programmed to beep when clicked.
 Check out the images below to get a feel for this pretty awesome app ! 
 </div>
